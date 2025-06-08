@@ -1,0 +1,19 @@
+ body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: white;
+      margin: 0;
+    }
+    .kottaxolani-ishtoni {
+      display: flex;
+      justify-content: space-between;
+    
+      gap: 20px;
+    }
+    .box {
+      background-color: red;
+      width: 150px;
+      height: 150px;
+    }
